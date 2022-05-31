@@ -305,7 +305,7 @@ const Home: FC = () => {
             
           </div>
           <p className="text-center self-center my-4 text-black" style={{color:"black"}}>
-            Launching in August 2021…
+            Launching in August 2022…
             </p>
           <div
             className={[
